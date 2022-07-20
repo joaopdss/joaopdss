@@ -8,3 +8,6 @@
 
 🎮 In my free time I do really enjoy to play games like League Of Legends and Fifa, hanging out with friends and watching some series as Brooklyn 99, Friends, The Witcher and romance movies.
 
+Linkedin: https://www.linkedin.com/in/joaopdss/
+Medium: https://medium.com/@joaopdss
+
