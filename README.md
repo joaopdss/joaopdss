@@ -2,7 +2,7 @@
 
 ## 🚀 About me
 
-🙋‍♂️ I am João Pedro dos Santos, a Junior Machine Learning Engineer, currently working at a company in Brazil. 
+🙋‍♂️ I am João Pedro dos Santos, a Data Scientist, currently working at a company in Brazil. 
 
 📖 I've been studying AI topics since middle of 2021, focusing more on TensorFlow, Sklearn, Pandas, Numpy and Matplotlib. 
 
